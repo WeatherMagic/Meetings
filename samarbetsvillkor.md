@@ -1,4 +1,4 @@
-# Sammarbetsvillkor
+# Samarbetsvillkor
 
 TSBB11, WeatherMagic
 
